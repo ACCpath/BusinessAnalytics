@@ -1,5 +1,6 @@
 # Business Analytics
 Explore and navigate information sources to check hypotheses and discover new patterns and insights relevant to the business.
+
 This repository contains the next analysis:
 
 1. Real estate market analysis in México City:
