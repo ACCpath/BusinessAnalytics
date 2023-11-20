@@ -1,5 +1,4 @@
-<style> body {text-align:justify} </style>
-<div style="text-align: right"> Update date: Nov 18, 2023 </div>
+<div style="text-align: right">Update date: Nov 18, 2023</div>
 
 # **Real estate market analysis in México City**
 
@@ -34,7 +33,6 @@ To do this, before putting the valuation team to look for opportunities, managem
 Exhibit 1.1.4.1
 
 ![](./media/Exhibit1141.png)
-
 ![](./media/Exhibit1141_map.png)
 
 #### **12 neighborhoods located with high investment potential**<br>
@@ -61,6 +59,7 @@ Exhibit 1.1.4.3
 * It seems that proximity to points of interest does not have a special impact on the rental price
 
 Exhibit 1.1.4.4
+
 ![](./media/Exhibit1144.png)
 
 #### **12 neighbourhoods have been located that apriori income can be assured by staying rented for most of the year**
