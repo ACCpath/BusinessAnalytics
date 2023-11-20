@@ -1,9 +1,15 @@
 <div style="text-align: right"> Update date: Nov 18, 2023 </div>
 
-
+<style>body {text-align:justify}</style>
 # **Real estate market analysis in México City**
 
 ## **Conclusions**
+
+### **Analysis context**
+
+The company has selected México City as a candidate to search for properties in which to invest with the aim of obtaining profitability through tourist rentals.
+
+To do this, before putting the valuation team to look for opportunities, management has commissioned the preparation of a [discovery analysis](real_estate_market_airbnb_mexicocity_BA.ipynb) that allows identifying strategies or lines of work that help direct the actions of the valuation team.
 
 ### **Objetives**
 
@@ -26,7 +32,8 @@ Analyze the available public data sources to find insights that help understand 
 * Look for opportunities in the territorial demarcation of Milpa Alta.
 
 Exhibit 1.1.4.1
-![](./media/Exhibit 1141.png)
+
+![](./media/Exhibit1141.png)
 
 ![](./media/Exhibit1141_map.png)
 
