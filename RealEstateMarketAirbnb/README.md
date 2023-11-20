@@ -1,19 +1,19 @@
+<style> body {text-align:justify} </style>
 <div style="text-align: right"> Update date: Nov 18, 2023 </div>
 
-<style>body {text-align:justify}</style>
 # **Real estate market analysis in México City**
 
 ## **Conclusions**
+
+### **Objetives**
+
+Analyze the available public data sources to find insights that help understand the characteristics of the market in this city and guide the search work of valuation team, especially in terms of the main axes: rental price, occupation levels and purchase price.
 
 ### **Analysis context**
 
 The company has selected México City as a candidate to search for properties in which to invest with the aim of obtaining profitability through tourist rentals.
 
 To do this, before putting the valuation team to look for opportunities, management has commissioned the preparation of a [discovery analysis](real_estate_market_airbnb_mexicocity_BA.ipynb) that allows identifying strategies or lines of work that help direct the actions of the valuation team.
-
-### **Objetives**
-
-Analyze the available public data sources to find insights that help understand the characteristics of the market in this city and guide the search work of valuation team, especially in terms of the main axes: rental price, occupation levels and purchase price.
 
 ### **Executive conclusions**
 
