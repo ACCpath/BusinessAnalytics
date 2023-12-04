@@ -7,3 +7,6 @@ This repository contains the next analysis:
 
 Locate the profile(or profiles) of properties in México City that maximize the commercial potential in the tourist rental market and the main areas where to look for them.
 
+2. Detection of inefficiencies in solar plant:
+
+Analyze the available data to detect photovoltaic solar energy generation problems and whether or not it is necessary to transport a team of engineers to the plants.
