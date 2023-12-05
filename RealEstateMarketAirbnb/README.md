@@ -1,6 +1,6 @@
 <div style="text-align: right">Update date: Nov 18, 2023</div>
 
-# **Real estate market analysis in México City**
+# **Airbnb real estate market analysis in México City**
 
 ## **Conclusions**
 
