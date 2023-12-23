@@ -10,3 +10,7 @@ Locate the profile(or profiles) of properties in México City that maximize the 
 **2. Detection of inefficiencies in solar plant**
 
 Analyze the available data to detect photovoltaic solar energy generation problems and whether or not it is necessary to transport a team of engineers to the plants.
+
+**3. Ecommerce Optimization**
+
+Analyze transactional data of an e-commerce company in the cosmetics sector, to try potential CRO(Conversion Rate Optimization) actions that increase visits, conversions and average ticket, and therefore, increase the overall e-commerce turnover.
